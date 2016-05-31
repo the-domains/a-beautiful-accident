@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A Mapping of Memories]]></title>
-        <description><![CDATA[A Mapping of Memories]]></description>
+        <title><![CDATA[A Map of Memories]]></title>
+        <description><![CDATA[A Map of Memories]]></description>
         <link>https://thegrid.ai/a-beautiful-accident/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 17:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 03:03:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/a-beautiful-accident/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Morning Kinetics]]></title>
+            <description><![CDATA[<article><h1>Morning Kinetics</h1><p>A Saturday morning view of cars running on the express way from my window.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3bbba5a7abc1954047a25b448a1f69f168148fd.jpg"></article>]]></description>
+            <link>https://vimeo.com/168665136</link>
+            <guid isPermaLink="false">62a8115e-53ed-4261-a192-b34026e4f7a1</guid>
+            <pubDate>Tue, 31 May 2016 03:03:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b805e43-00df-4263-b0f9-a254fc8d7ba9.jpg">]]></description>
